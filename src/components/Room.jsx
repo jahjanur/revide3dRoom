@@ -7,7 +7,7 @@ const Room = ({ onOpenFrame, onOpenPublishing, controlsRef, currentView, onNavig
   const [shouldTriggerHomeAnimation, setShouldTriggerHomeAnimation] = useState(false)
   const [showPublishingGuides, setShowPublishingGuides] = useState(false)
   const [publishingObjects, setPublishingObjects] = useState([])
-  const gltf = useGLTF('/MukiErdhLunLol02.glb')
+  const gltf = useGLTF('/room.glb')
   const { gl, camera } = useThree()
   
   // Load frame textures
