@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Immomedien - Haus & Verwaltung",
+    "logo": "🏢",
+    "description": "Immomedien - Haus & Verwaltung is a comprehensive publication covering real estate management and administration. This publication provides insights into property management, administrative processes, and industry best practices for real estate professionals.",
+    "ctaText": "View Publication",
+    "ctaLink": "#",
+    "image": "/publications/immomedien/Publishing1_Material.png"
+  },
+  {
+    "id": 2,
+    "title": "Panoptikum",
+    "logo": "📚",
+    "description": "Panoptikum is a specialized publication that showcases innovative projects and developments. This edition features the Revide Group and highlights their latest achievements and contributions to the industry.",
+    "ctaText": "View Publication",
+    "ctaLink": "#",
+    "image": "/publications/panoptikum/Publishing2_Content.pdf"
+  }
+]
